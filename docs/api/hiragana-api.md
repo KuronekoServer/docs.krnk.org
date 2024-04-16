@@ -9,7 +9,7 @@ title: ひらがなAPI
 GETリクエストでAPIにリクエストでリクエストしローマ字、漢字を平仮名に変換するAPIとなっています。
 <br></br>また、韓国語のハングルにも対応しております。
 
-API仕様
+## API仕様
 ```
 https://eng-jpn-api.kuroneko6423.com/query?text=文章
 ```
