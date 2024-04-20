@@ -12,7 +12,7 @@ title: Webp変換API
 
 #### エンドポイント
 
-- **POST /convert**
+- **POST /api/convert**
 
 #### リクエスト
 
@@ -49,10 +49,10 @@ title: Webp変換API
 
 ```bash
 # 単一の画像を変換する場合
-curl -X POST -F "images=@/path/to/image.jpg" https://webp-convert.kuroneko6423.com/convert > converted_image.webp
+curl -X POST -F "images=@/path/to/image.jpg" https://webp-convert-api.kuroneko6423.com/api/convert > converted_image.webp
 
 # 複数の画像を変換する場合
-curl -X POST -F "images=@/path/to/image1.jpg" -F "images=@/path/to/image2.jpg" https://webp-convert.kuroneko6423.com/convert > converted_images.zip
+curl -X POST -F "images=@/path/to/image1.jpg" -F "images=@/path/to/image2.jpg" https://webp-convert-api.kuroneko6423.com/api/convert > converted_images.zip
 ```
 
 #### 注意事項
@@ -60,7 +60,7 @@ curl -X POST -F "images=@/path/to/image1.jpg" -F "images=@/path/to/image2.jpg" h
 - ファイルサイズに応じて、処理に時間がかかる場合があります。
 - ファイルの拡張子が画像形式に対応している必要があります。
 
-サービスページ: https://webp-convert.kuroneko6423.com/
+サービスページ: https://webp-convert-api.kuroneko6423.com/
 
 
 :::danger warning
