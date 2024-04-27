@@ -9,8 +9,13 @@ title: 為替レート API
 ## API仕様
 
 API仕様
+json形式出力
 ```
 https://exchange-rate-api.kuroneko6423.com/api/rate
+```
+prometheus形式出力
+```
+https://exchange-rate-api.kuroneko6423.com/api/prometheus
 ```
 
 値 | 概要 |
