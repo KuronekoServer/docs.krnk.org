@@ -3,7 +3,7 @@ title: ようこそ
 sidebar_position: 1
 ---
 
-![](/img/banner.webp)
+![](/img/logo-banner.webp)
 
 # ようこそ
 **KuronekoServer**の公式ドキュメントへようこそ！

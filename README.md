@@ -3,6 +3,10 @@
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 このウェブサイトは[Docusaurus](https://docusaurus.io/)という最新の静的ウェブサイト・ジェネレーターを使って作られています。
 
+# ロゴについて
+
+フッターで使用しているロゴは<a href="https://x.com/sawaratsuki1004">さわらつき</a>さんが作成したかわいいロゴです！
+
 ### Installation
 
 https://docusaurus.io/docs

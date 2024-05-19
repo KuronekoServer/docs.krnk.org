@@ -4,7 +4,7 @@ description: KuronekoServerとは
 sidebar_position: 2
 ---
 
-![](/img/banner.webp)
+![](/img/logo-banner.webp)
 
 # KuronekoServerとは
 ### 概要

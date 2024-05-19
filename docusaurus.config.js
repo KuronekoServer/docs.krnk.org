@@ -151,10 +151,10 @@ const config = {
         ],
         logo: {
           alt: 'KuronekoServer Logo',
-          src: '/img/banner.webp',
+          src: '/img/banner-kawaii.webp',
           href: 'https://kuroneko6423.com',
         },
-        copyright: `Copyright © ${new Date().getFullYear()} KuronekoServer`,
+        copyright: `Copyright © 2018-2024 KuronekoServer All Rights Reserved.<br>kawaii logo: <a href="https://x.com/sawaratsuki1004">@sawaratuki</a>`,
       },
       prism: {
         theme: prismThemes.github,

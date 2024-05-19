@@ -36,7 +36,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/KuronekoServer"
   },
   "copyright": {
-    "message": "Copyright © 2024 KuronekoServer",
+    "message": "Copyright © 2018-${new Date().getFullYear()} KuronekoServer All Rights Reserved.<br>kawaii logo: <a href='https://x.com/sawaratsuki1004'>@sawaratuki</a>",
     "description": "The footer copyright"
   },
   "logo.alt": {

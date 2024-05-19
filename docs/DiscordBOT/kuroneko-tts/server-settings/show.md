@@ -20,7 +20,7 @@ icon: dot
 
 ### 表示内容
 +++ 概要
-- ![](/img/banner.webp)
+- ![](/img/logo-banner.webp)
 +++ 変更
 - [x] API関係のDocsにサービスURLの追加
 +++ 修正
