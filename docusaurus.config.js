@@ -127,7 +127,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.com/invite/Y6w5Jv3EAR',
+                href: 'https://discord.kuroneko6423.com',
               },
               {
                 label: 'Twitter',

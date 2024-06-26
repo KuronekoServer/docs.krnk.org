@@ -19,14 +19,14 @@ web認証BOTはhcaptureを使用した認証BOTです。
 
 !!!warning
 付与したいロールより上にweb認証BOTがあるか確認をお願いします。
-正しく設定されていた場合は[お問い合わせ](https://discord.com/invite/Y6w5Jv3EAR)をお願いします。
+正しく設定されていた場合は[お問い合わせ](https://discord.kuroneko6423.com)をお願いします。
 !!!
 
 ![](/img/webauth-bot/role.webp)
 
 > `アプリケーションが応答しませんでした` `インタラクションに失敗しました`と出たり、応答が帰ってこない
 
-BOTがメンテナンス中か、エラーが発生しているかもしれませんので[サポートサーバー](https://discord.com/invite/Y6w5Jv3EAR)の #📢service-アナウンス にメンテナンス中かどうかご確認の上 #お問い合わせ でお知らせください。
+BOTがメンテナンス中か、エラーが発生しているかもしれませんので[サポートサーバー](https://discord.kuroneko6423.com)の #📢service-アナウンス にメンテナンス中かどうかご確認の上 #お問い合わせ でお知らせください。
 
 ## クレジット
-運用・サポート: [@KuronekoServer](https://x.com/kuroneko_server) ([サポートサーバー](https://discord.com/invite/Y6w5Jv3EAR))  
+運用・サポート: [@KuronekoServer](https://x.com/kuroneko_server) ([サポートサーバー](https://discord.kuroneko6423.com))  

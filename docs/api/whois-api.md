@@ -4,34 +4,47 @@ title: WhoisAPI
 
 ## WhoisAPI
 ### 概要
-このAPIは、ドメインのwhois情報を表示するAPIです。
+このAPIは、ドメインのWhois情報を取得するためのAPIです。
 
-## エラーレスポンス
+### エラーレスポンス
 
 - **Status Code:** 500 Internal Server Error
-    - ドメインが正しくない場合
+  - Whoisデータの取得中にエラーが発生した場合
 
-## API仕様
+- **Status Code:** 400 Bad Request
+  - ドメインパラメータが指定されていない場合
 
-API仕様
-```
-https://whois-api.kuroneko6423.com/api/whois?domain=ドメイン
-```
+- **Status Code:** 403 Forbidden
+  - 制限されたTLDのWhois情報を取得しようとした場合<br/>
+  対象TDL: .edu .mil
 
-リクエスト例
-```
-https://whois-api.kuroneko6423.com/api/whois?domain=google.com
-```
+### API仕様
 
-## 注意事項
+このAPIは、以下のエンドポイントを提供します:
 
-- 一部ドメインに対応していない場合があります。
+- **GET /api/whois**
+  - 指定したドメインのWhois情報を取得します。
+  - パラメータ: `domain` (取得したいドメイン名)
+  - レスポンス: テキスト形式のWhois情報
 
-サービスページ: https://whois-api.kuroneko6423.com/api/whois?domain=ドメイン
+例: ```https://whois-api.kuroneko6423.com/api/whois?domain=google.com```
 
+- **GET /api/whois/json**
+  - 指定したドメインのWhois情報をJSON形式で取得します。
+  - パラメータ: `domain` (取得したいドメイン名)
+  - レスポンス: JSON形式のパースされたWhois情報
 
-:::danger warning
-10秒間に100回以上リクエストをすると「429 Too many Requests」が返されます。
-<br></br>APIのレートリミットの緩和を行いたい場合は[お問い合わせ](https://discord.com/invite/Y6w5Jv3EAR)をお願いします。
-<br></br>※APIの制限は提供しているAPIサービスと制限は共有されています。
+例: ```https://whois-api.kuroneko6423.com/api/whois/json?domain=google.com```
+
+:::caution 注意事項
+
+- 一部のTLDについてはWhois情報の取得が制限されています。
+- json版での取得は基本的にcomやnetでの場合は動作を確認しておりますが、jpドメインやintドメインなどは動作しないことを確認しています。<br/>この問題は順次対応予定のためしばらくお待ちくださいませ。
+
+:::
+
+:::danger 警告
+10秒間に100回以上のリクエストを行うと「429 Too Many Requests」が返されます。
+<br></br>APIのレートリミットの緩和を希望する場合は[お問い合わせ](https://discord.kuroneko6423.com)ください。
+<br></br>※APIの制限は提供されているAPIサービスと共有されています。
 :::

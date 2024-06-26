@@ -30,11 +30,11 @@ Genshin Artifacterのサービス終了がきっかけで公認の後継BOTと�
 > `アプリケーションが応答しませんでした` `インタラクションに失敗しました`と出たり、応答が帰ってこない
 
 ボット(またはEnkaNetwork)がメンテナンス中か、エラーが発生しているかもしれません。
-<br></br>[ステータス](https://status.kuroneoo6423.com)を確認いただき、掲載されてないようでしたら[サポートサーバー](https://discord.com/invite/Y6w5Jv3EAR)の #お問い合わせ でお知らせください。
+<br></br>[ステータス](https://status.kuroneoo6423.com)を確認いただき、掲載されてないようでしたら[サポートサーバー](https://discord.kuroneko6423.com)の #お問い合わせ でお知らせください。
 
 ## クレジット
 開発: [@nekok500](https://x.com/nekok500)  
-<br></br>運用・サポート: [@KuronekoServer](https://x.com/kuroneko_server) ([サポートサーバー](https://discord.com/invite/Y6w5Jv3EAR))  
+<br></br>運用・サポート: [@KuronekoServer](https://x.com/kuroneko_server) ([サポートサーバー](https://discord.kuroneko6423.com))  
 <br></br>オリジナル: [画像生成コード](https://github.com/FuroBath/ArtifacterImageGen) ([@hyugo_genshin](https://x.com/hyugo_genshin) ([Fanbox](https://hyugo.fanbox.cc/)))
 
 :::caution
