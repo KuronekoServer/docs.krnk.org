@@ -2,7 +2,6 @@
 title: WhoisAPI
 ---
 
-## WhoisAPI
 ### 概要
 このAPIは、ドメインのWhois情報を取得するためのAPIです。
 
