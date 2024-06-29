@@ -5,7 +5,7 @@ title: 対応言語
 ## Twitch翻訳BOT 対応言語
 ### 概要
 
-サービス: https://twitch.kuroneko6423.com
+サービス: https://twitch.krnk.org
 
 対応言語 | API | ISO-639 コード |
 -- | -- | -- |

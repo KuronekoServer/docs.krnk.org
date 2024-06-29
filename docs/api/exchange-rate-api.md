@@ -11,11 +11,11 @@ title: 為替レート API
 API仕様
 json形式出力
 ```
-https://exchange-rate-api.kuroneko6423.com/api/rate
+https://exchange-rate-api.krnk.org/api/rate
 ```
 prometheus形式出力
 ```
-https://exchange-rate-api.kuroneko6423.com/api/prometheus
+https://exchange-rate-api.krnk.org/api/prometheus
 ```
 
 値 | 概要 |
@@ -33,6 +33,6 @@ MXN_JPY | メキシコペソ/日本円
 
 :::danger warning
 10秒間に100回以上リクエストをすると「429 Too many Requests」が返されます。
-<br></br>APIのレートリミットの緩和を行いたい場合は[お問い合わせ](https://discord.kuroneko6423.com)をお願いします。
+<br></br>APIのレートリミットの緩和を行いたい場合は[お問い合わせ](https://discord.krnk.org)をお願いします。
 <br></br>※APIの制限は提供しているAPIサービスと制限は共有されています。
 :::

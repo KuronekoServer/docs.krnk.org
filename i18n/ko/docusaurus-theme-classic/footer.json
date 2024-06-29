@@ -21,7 +21,7 @@
   },
   "link.item.label.Discord": {
     "message": "Discord",
-    "description": "The label of footer link with label=Discord linking to https://discord.kuroneko6423.com"
+    "description": "The label of footer link with label=Discord linking to https://discord.krnk.org"
   },
   "link.item.label.Twitter": {
     "message": "Twitter",
@@ -29,7 +29,7 @@
   },
   "link.item.label.HomePage": {
     "message": "HomePage",
-    "description": "The label of footer link with label=HomePage linking to https://kuroneko6423.com"
+    "description": "The label of footer link with label=HomePage linking to https://krnk.org"
   },
   "link.item.label.GitHub": {
     "message": "GitHub",

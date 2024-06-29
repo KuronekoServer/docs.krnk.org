@@ -16,9 +16,9 @@ BOTをサーバーに招待するには、そのサーバーの`サーバーの�
 
 ### 1. 導入したいBOTを選びましょう
 各DiscordBOTのホームページ/導入リンク
-- [Discord読み上げBOT](https://tts.kuroneko6423.com)
-- [Artifacter](https://artifacter.kuroneko6423.com)
-- [その他サービス](https://kuroneko6423.com/service)
+- [Discord読み上げBOT](https://tts.krnk.org)
+- [Artifacter](https://artifacter.krnk.org)
+- [その他サービス](https://krnk.org/service)
 
 ### 2. BOTを導入しよう!
 招待リンクにアクセスし、どのサーバーに追加するか選択します。

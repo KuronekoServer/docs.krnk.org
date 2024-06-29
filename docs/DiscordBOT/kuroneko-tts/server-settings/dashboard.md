@@ -15,4 +15,4 @@ icon: dot
 
 本コマンドはWebダッシュボードのURLを表示を行い、サーバーで実行するとそのサーバー設定ができるWebのURLを提示するコマンドとなっています。
 
-ダッシュボードのURL: https://dashboard.kuroneko6423.com
+ダッシュボードのURL: https://dashboard.krnk.org

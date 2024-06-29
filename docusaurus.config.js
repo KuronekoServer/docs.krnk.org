@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.kuroneko6423.com',
+  url: 'https://docs.krnk.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'KuronekoServer', // Usually your GitHub org/user name.
-  projectName: 'docs.kuroneko6423.com', // Usually your repo name.
+  projectName: 'docs.krnk.org', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -55,14 +55,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/KuronekoServer/docs.kuroneko6423.com/tree/docusaurus/',
+            'https://github.com/KuronekoServer/docs.krnk.org/tree/docusaurus/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/KuronekoServer/docs.kuroneko6423.com/tree/docusaurus/blog/',
+            'https://github.com/KuronekoServer/docs.krnk.org/tree/docusaurus/blog/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -100,7 +100,7 @@ const config = {
           },
           {to: '/blog', label: 'Historty', position: 'left'},
           {
-            href: 'https://github.com/KuronekoServer/docs.kuroneko6423.com',
+            href: 'https://github.com/KuronekoServer/docs.krnk.org',
             label: 'GitHub',
             position: 'right',
           },
@@ -127,7 +127,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.kuroneko6423.com',
+                href: 'https://discord.krnk.org',
               },
               {
                 label: 'Twitter',
@@ -140,7 +140,7 @@ const config = {
             items: [
               {
                 label: 'HomePage',
-                href: 'https://kuroneko6423.com',
+                href: 'https://krnk.org',
               },
               {
                 label: 'GitHub',
@@ -152,7 +152,7 @@ const config = {
         logo: {
           alt: 'KuronekoServer Logo',
           src: '/img/banner-kawaii.webp',
-          href: 'https://kuroneko6423.com',
+          href: 'https://krnk.org',
         },
         copyright: `Copyright © 2018-2024 KuronekoServer All Rights Reserved.<br>kawaii logo: <a href="https://x.com/sawaratsuki1004">@sawaratuki</a>`,
       },

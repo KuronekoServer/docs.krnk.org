@@ -49,10 +49,10 @@ title: Webp変換API
 
 ```bash
 # 単一の画像を変換する場合
-curl -X POST -F "images=@/path/to/image.jpg" https://webp-convert-api.kuroneko6423.com/api/convert > converted_image.webp
+curl -X POST -F "images=@/path/to/image.jpg" https://webp-convert-api.krnk.org/api/convert > converted_image.webp
 
 # 複数の画像を変換する場合
-curl -X POST -F "images=@/path/to/image1.jpg" -F "images=@/path/to/image2.jpg" https://webp-convert-api.kuroneko6423.com/api/convert > converted_images.zip
+curl -X POST -F "images=@/path/to/image1.jpg" -F "images=@/path/to/image2.jpg" https://webp-convert-api.krnk.org/api/convert > converted_images.zip
 ```
 
 #### 注意事項
@@ -60,11 +60,11 @@ curl -X POST -F "images=@/path/to/image1.jpg" -F "images=@/path/to/image2.jpg" h
 - ファイルサイズに応じて、処理に時間がかかる場合があります。
 - ファイルの拡張子が画像形式に対応している必要があります。
 
-サービスページ: https://webp-convert-api.kuroneko6423.com/
+サービスページ: https://webp-convert-api.krnk.org/
 
 
 :::danger warning
 10秒間に100回以上リクエストをすると「429 Too many Requests」が返されます。
-<br></br>APIのレートリミットの緩和を行いたい場合は[お問い合わせ](https://discord.kuroneko6423.com)をお願いします。
+<br></br>APIのレートリミットの緩和を行いたい場合は[お問い合わせ](https://discord.krnk.org)をお願いします。
 <br></br>※APIの制限は提供しているAPIサービスと制限は共有されています。
 :::

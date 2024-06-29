@@ -13,11 +13,11 @@ sidebar_position: 1
 使用していく上でわからないことができた場合は、まずはこれを見るようにしましょう！
 
 :::tip My tip
-**KuronekoServerのサービスを使用する前に、必ず[利用規約](https://kuroneko6423.com/tos)と[プライバシーポリシー](https://kuroneko6423.com/privacy)のご確認をお願いします。**
+**KuronekoServerのサービスを使用する前に、必ず[利用規約](https://krnk.org/tos)と[プライバシーポリシー](https://krnk.org/privacy)のご確認をお願いします。**
 <br></br>サービスを利用した場合、これらに同意したとみなされます。
 :::
 
 :::danger warning
 このドキュメントはBOTの開発と並行して執筆しています。そのため、時期によっては各サービスの最新バージョンに対応していない場合があります。
-<br></br>ドキュメントに書かれていないことで質問がある場合は、お気軽に[サポートサーバー](https://discord.kuroneko6423.com)まで連絡をお願いします。
+<br></br>ドキュメントに書かれていないことで質問がある場合は、お気軽に[サポートサーバー](https://discord.krnk.org)まで連絡をお願いします。
 :::

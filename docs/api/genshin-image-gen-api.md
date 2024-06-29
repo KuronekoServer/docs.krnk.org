@@ -13,7 +13,7 @@ GETリクエストでAPIにアクセスし、原神のユーザーの原神の�
 # API仕様
 ## キャラクターリスト取得
 ```
-https://genshin-image-gen-api.kuroneko6423.com/api/genshindata/?uid=UID
+https://genshin-image-gen-api.krnk.org/api/genshindata/?uid=UID
 ```
 当てはめる値 | 概要 |
 -- | -- |
@@ -21,7 +21,7 @@ UID | 原神のUID |
 
 リクエスト例
 ```
-https://genshin-image-gen-api.kuroneko6423.com/api/genshindata/?uid=830322314
+https://genshin-image-gen-api.krnk.org/api/genshindata/?uid=830322314
 ```
 結果例
 ```
@@ -32,7 +32,7 @@ https://genshin-image-gen-api.kuroneko6423.com/api/genshindata/?uid=830322314
 
 ## ビルドカード生成
 ```
-https://genshin-image-gen-api.kuroneko6423.com/api/generation/?uid=UID&scoretype=スコア&charaName=キャラクター名
+https://genshin-image-gen-api.krnk.org/api/generation/?uid=UID&scoretype=スコア&charaName=キャラクター名
 ```
 当てはめる値 | 概要 |
 -- | -- |
@@ -46,16 +46,16 @@ CHARACTER | 日本語の原神のキャラクター名(例: 旅人)
 
 リクエスト例
 ```
-https://genshin-image-gen-api.kuroneko6423.com/api/generation/?uid=830322314&scoretype=ATTACK&charaName=ディオナ
+https://genshin-image-gen-api.krnk.org/api/generation/?uid=830322314&scoretype=ATTACK&charaName=ディオナ
 ```
 結果例
 ![image](/img/genshin-api/image-gen-api.png)
 
-サービスページ: https://genshin-api.kuroneko6423.com
+サービスページ: https://genshin-api.krnk.org
 
 
 :::danger warning
 10秒間に100回以上リクエストをすると「429 Too many Requests」が返されます。
-<br></br>APIのレートリミットの緩和を行いたい場合は[お問い合わせ](https://discord.kuroneko6423.com)をお願いします。
+<br></br>APIのレートリミットの緩和を行いたい場合は[お問い合わせ](https://discord.krnk.org)をお願いします。
 <br></br>※APIの制限は提供しているAPIサービスと制限は共有されています。
 :::

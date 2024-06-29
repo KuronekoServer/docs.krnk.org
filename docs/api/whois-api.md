@@ -26,14 +26,14 @@ title: WhoisAPI
   - パラメータ: `domain` (取得したいドメイン名)
   - レスポンス: テキスト形式のWhois情報
 
-例: ```https://whois-api.kuroneko6423.com/api/whois?domain=google.com```
+例: ```https://whois-api.krnk.org/api/whois?domain=google.com```
 
 - **GET /api/whois/json**
   - 指定したドメインのWhois情報をJSON形式で取得します。
   - パラメータ: `domain` (取得したいドメイン名)
   - レスポンス: JSON形式のパースされたWhois情報
 
-例: ```https://whois-api.kuroneko6423.com/api/whois/json?domain=google.com```
+例: ```https://whois-api.krnk.org/api/whois/json?domain=google.com```
 
 :::caution 注意事項
 
@@ -44,6 +44,6 @@ title: WhoisAPI
 
 :::danger 警告
 10秒間に100回以上のリクエストを行うと「429 Too Many Requests」が返されます。
-<br></br>APIのレートリミットの緩和を希望する場合は[お問い合わせ](https://discord.kuroneko6423.com)ください。
+<br></br>APIのレートリミットの緩和を希望する場合は[お問い合わせ](https://discord.krnk.org)ください。
 <br></br>※APIの制限は提供されているAPIサービスと共有されています。
 :::
