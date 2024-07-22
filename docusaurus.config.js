@@ -151,7 +151,7 @@ const config = {
         ],
         logo: {
           alt: 'KuronekoServer Logo',
-          src: '/img/banner-kawaii.webp',
+          src: 'https://cdn.krnk.org/kuronekoserver/logo-wide-kawaii.webp',
           href: 'https://krnk.org',
         },
         copyright: `Copyright © 2018-2024 KuronekoServer All Rights Reserved.<br>kawaii logo: <a href="https://x.com/sawaratsuki1004">@sawaratuki</a>`,
