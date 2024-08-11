@@ -42,7 +42,7 @@ VRChat Video Systemサービス提供開始 | 2023/07/03
 原神APIサービス提供開始 | 2023/03/15
 OpenJTalkAPIサービス提供開始 | 2023/05/21
 Neodyとの提携開始 | 2023/06/18
-Narikakun Networkとの提携開始 | 2023/06/18
+NAKN Internet(旧: Narikakun Network)との提携開始 | 2023/06/18
 mc-fdc-devとの提携解除 | 2023/10/22
 ----- 2024年 ------ | 
 Artifacter ModifiedからArtifacterに名前を変更 | 2024/01/19
