@@ -55,3 +55,4 @@ webp変換APIサービス提供開始 | 2024/04/26
 為替レート APIサービス提供開始 | 2024/04/26
 support.からnews.へお知らせのサイトのサブドメイン変更 | 2024/04/30
 kuroneko6423.comからkrnk.orgに組織のドメインを変更 | 2024/06/29
+KuronekoServer CDN Server 提供開始 | 2024/08/10
