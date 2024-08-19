@@ -2,14 +2,16 @@
 title: 音声合成API
 ---
 
+# 音声合成API
+## 概要
+本APIはVOICEVOX Engineの技術を使用したAPIサービスとなっております。
+
+---
+
 :::danger warning
 本サービスはベータ版です。
 リリースを行っておりませんので可用性を保証いたしません。
 :::
-
-# 音声合成API
-## 概要
-本APIはVOICEVOX Engineの技術を使用したAPIサービスとなっております。
 
 APIの仕様につきましてはVOICEVOXの公式ドキュメントをご覧ください。
 <br></br>また、一部の話者が音声合成できない等の問題があれば[Discord サポートサーバー](https://discord.krnk.org)までご報告をお願いいたします。
