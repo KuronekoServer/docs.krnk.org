@@ -106,5 +106,41 @@
   "sidebar.docsSidebar.category.API Reference.link.generated-index.description": {
     "message": "KuronekoServer API Documentation",
     "description": "The generated-index page description for category API Reference in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.DiscordBOT.link.generated-index.title": {
+    "message": "DiscordBOT",
+    "description": "The generated-index page title for category DiscordBOT in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.DiscordBOT.link.generated-index.description": {
+    "message": "Discord BOTのコマンド",
+    "description": "The generated-index page description for category DiscordBOT in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.API Reference.link.generated-index.title": {
+    "message": "API Reference",
+    "description": "The generated-index page title for category API Reference in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Twitch翻訳BOT": {
+    "message": "Twitch翻訳BOT",
+    "description": "The label for category Twitch翻訳BOT in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Twitch翻訳BOT.link.generated-index.title": {
+    "message": "Twitch翻訳BOT",
+    "description": "The generated-index page title for category Twitch翻訳BOT in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Twitch翻訳BOT.link.generated-index.description": {
+    "message": "Twitch翻訳BOTの概要",
+    "description": "The generated-index page description for category Twitch翻訳BOT in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.VRChat Service": {
+    "message": "VRChat Service",
+    "description": "The label for category VRChat Service in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.VRChat Service.link.generated-index.title": {
+    "message": "VRChat Service",
+    "description": "The generated-index page title for category VRChat Service in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.VRChat Service.link.generated-index.description": {
+    "message": "VRChat向けのサービス一覧",
+    "description": "The generated-index page description for category VRChat Service in sidebar docsSidebar"
   }
 }
