@@ -18,8 +18,8 @@ OBSでの配信設定<br></br>
 ![alt text](vrc-stream-02.png)
 
 ### プレイヤー側の設定
-PCのみ: `rtspt://vrc-stream-01.krnk.org/{OBSで設定した任意のストリームキー}`<br></br>
-Quest対応: `rtsp://vrc-stream-01.krnk.org/{OBSで設定した任意のストリームキー}`<br></br>
+PCのみ: `rtspt://vrc-stream-01.krnk.org:8554/{OBSで設定した任意のストリームキー}`<br></br>
+Quest対応: `rtsp://vrc-stream-01.krnk.org:8554/{OBSで設定した任意のストリームキー}`<br></br>
 映像のみ: `https://vrc-stream-01.krnk.org/{OBSで設定した任意のストリームキー}/index.m3u8`
 
 :::danger 警告
