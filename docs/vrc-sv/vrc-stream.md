@@ -17,13 +17,13 @@ OBSでの配信設定<br></br>
 ストリームキー: 任意<br></br>
 映像ビットレート推奨: 2000~3500kbps<br></br>
 
-![alt text](vrc-stream-01.png)<br></br>
-![alt text](vrc-stream-02.png)
-
 ### プレイヤー側の設定
 PCのみ: `rtspt://vrc-stream-01.krnk.org:8554/{OBSで設定した任意のストリームキー}`<br></br>
 Quest対応: `rtsp://vrc-stream-01.krnk.org:8554/{OBSで設定した任意のストリームキー}`<br></br>
 映像のみ: `https://vrc-stream-01-hls.krnk.org/{OBSで設定した任意のストリームキー}/index.m3u8`
+
+![alt text](vrc-stream-01.png)<br></br>
+![alt text](vrc-stream-02.png)
 
 :::danger 警告
 2024/12/18時点でVRChat側の不具合(?)でrtspでの視聴ができません。<br></br>
