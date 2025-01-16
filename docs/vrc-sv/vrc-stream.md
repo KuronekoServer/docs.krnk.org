@@ -1,8 +1,8 @@
 ---
-title: VRC Stream
+title: VRC Streaming Service
 ---
 
-## VRC Stream
+## VRC Streaming Service
 ### 概要
 本サービスは高画質での映像配信で3秒以内の遅延(HLS配信は例外)を目標としている映像配信サービスです。
 
