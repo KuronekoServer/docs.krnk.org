@@ -6,10 +6,6 @@ title: VRC Streaming Service
 ### 概要
 本サービスは高画質での映像配信で3秒以内の遅延(HLS配信は例外)を目標としている映像配信サービスです。
 
-:::danger warning
-本サービスはベータ版です。
-:::
-
 https://vrc-stream.krnk.org/
 
 ![alt text](vrc-stream-01.png)<br></br>
